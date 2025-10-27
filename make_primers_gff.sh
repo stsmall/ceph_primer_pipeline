@@ -5,9 +5,9 @@
 # This script designs PCR primers for genomic features (e.g., exons) extracted from GFF files.
 # It integrates Primer3 for primer design and MFEprimer for specificity validation.
 #
-# Author: Updated primer design pipeline
-# Version: 2.0
-# Date: $(date +%Y-%m-%d)
+# Author: Scott T Small
+# Version: 1.0
+# Date: October 25 2025
 
 set -euo pipefail
 
